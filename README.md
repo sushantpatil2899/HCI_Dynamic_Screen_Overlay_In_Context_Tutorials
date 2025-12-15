@@ -1,8 +1,8 @@
 # Interactive Tutorial Launcher
 
-A modern, desktop-style web application for browsing, importing, and launching interactive computer tutorials. Built with React, TypeScript, and Tailwind CSS following Apple + Microsoft Fluent design principles.
+A modern, desktop application for browsing, importing, and launching interactive computer tutorials. Built with React, TypeScript, and Tailwind CSS following Apple + Microsoft Fluent design principles.
 
-![Tutorial Launcher](https://img.shields.io/badge/React-18.3-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-4.0-blue) ![Vite](https://img.shields.io/badge/Vite-6.0-purple)
+![Tutorial Launcher](https://img.shields.io/badge/React-18.3-blue) (https://img.shields.io/badge/Electron-27.0-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-4.0-blue) ![Vite](https://img.shields.io/badge/Vite-6.0-purple)
 
 ---
 
@@ -49,7 +49,7 @@ A modern, desktop-style web application for browsing, importing, and launching i
 
 ## 🔧 Technology Stack
 
-- **Framework:** React 18.3
+- **Framework:** Electron 27.0.0, React 18.3
 - **Language:** TypeScript 5.6
 - **Styling:** Tailwind CSS v4.0
 - **Build Tool:** Vite 6.0
