@@ -1,0 +1,224 @@
+{
+  "steps": [
+    {
+      "items": [
+        {
+          "type": "text",
+          "params": {
+            "content": "Step 1: Click on Search Bar.",
+            "position": [1300, 100],
+            "font_family": "Arial",
+            "font_size": 15
+          }
+        },
+        {
+          "type": "arrow",
+          "params": {
+            "start": [575, 900],
+            "direction": "down",
+            "length": 100,
+            "thickness": 6
+          }
+        },
+        {
+          "type": "rect",
+          "params": {
+            "position": [570, 1025],
+            "size": [290, 50],
+            "border_thickness": 3,
+            "fill_opacity": 0.0,
+            "corner_radius": 15
+          }
+        }
+      ],
+      "action": {
+        "type": "click",
+        "region": [570, 1025, 290, 50],
+        "padding": 20
+      }
+    },
+    {
+      "items": [
+        {
+        "type": "text",
+        "params": {
+            "content": "Step 2: Type \"Settings\".",
+            "position": [100, 700],
+            "font_family": "Arial",
+            "font_size": 20
+        }
+        }
+      ],
+      "action": {
+        "type": "type",
+        "text": "settings"
+      }
+    },
+    {
+      "items": [
+        {
+        "type": "text",
+        "params": {
+            "content": "Step 3: Click on \"Open\".",
+            "position": [1580, 450],
+            "font_family": "Arial",
+            "font_size": 17
+        }
+        }
+      ],
+      "action": {
+        "type": "click",
+        "region": [900, 430, 290, 100],
+        "padding": 20
+      }
+    },
+    {
+      "items": [
+        {
+          "type": "text",
+          "params": {
+            "content": "Step 4: Click on search bar and type \"timezone\".",
+            "position": [1200, 100],
+            "font_family": "Arial",
+            "font_size": 20
+          }
+        },
+        {
+          "type": "rect",
+          "params": {
+            "position": [635, 5],
+            "size": [650, 50],
+            "border_thickness": 3,
+            "fill_opacity": 0.0,
+            "corner_radius": 15
+          }
+        },
+        {
+          "type": "arrow",
+          "params": {
+            "start": [520, 30],
+            "direction": "right",
+            "length": 100,
+            "thickness": 6
+          }
+        }
+      ],
+      "action": {
+        "type": "type",
+        "text": "timezone"
+      }
+    },
+    {
+      "items": [
+        {
+          "type": "text",
+          "params": {
+            "content": "Step 5: Click on \"Change the time zone\".",
+            "position": [1320, 150],
+            "font_family": "Arial",
+            "font_size": 20
+          }
+        },
+        {
+          "type": "rect",
+          "params": {
+            "position": [635, 70],
+            "size": [650, 50],
+            "border_thickness": 3,
+            "fill_opacity": 0.0,
+            "corner_radius": 15
+          }
+        },
+        {
+          "type": "arrow",
+          "params": {
+            "start": [1395, 95],
+            "direction": "left",
+            "length": 100,
+            "thickness": 6
+          }
+        }
+      ],
+      "action": {
+        "type": "click",
+        "region": [635, 70, 650, 50],
+        "padding": 20
+      }
+    },
+    {
+      "items": [
+        {
+          "type": "text",
+          "params": {
+            "content": "Step 6: If you wish the timezone to setup automatically, toggle this on.",
+            "position": [1120, 250],
+            "font_family": "Arial",
+            "font_size": 15
+          }
+        },
+        {
+          "type": "text",
+          "params": {
+            "content": "Else, click on this dropdown to select specific timezone.",
+            "position": [700, 340],
+            "font_family": "Arial",
+            "font_size": 15
+          }
+        },
+        {
+          "type": "rect",
+          "params": {
+            "position": [1620, 272],
+            "size": [110, 50],
+            "border_thickness": 3,
+            "fill_opacity": 0.0,
+            "corner_radius": 15
+          }
+        },
+        {
+          "type": "rect",
+          "params": {
+            "position": [1335, 345],
+            "size": [390, 53],
+            "border_thickness": 3,
+            "fill_opacity": 0.0,
+            "corner_radius": 15
+          }
+        },
+        {
+          "type": "arrow",
+          "params": {
+            "start": [1510, 295],
+            "direction": "right",
+            "length": 100,
+            "thickness": 6
+          }
+        },
+        {
+          "type": "arrow",
+          "params": {
+            "start": [1225, 369],
+            "direction": "right",
+            "length": 100,
+            "thickness": 6
+          }
+        }
+      ],
+      "action": {
+        "type": "any",
+        "options": [
+          {
+            "type": "click",
+            "region": [1620, 272, 110, 50],
+            "padding": 20
+          },
+          {
+            "type": "click",
+            "region": [1335, 345, 390, 53],
+            "padding": 20
+          }
+        ]
+      }
+    }
+  ]
+}
