@@ -2,7 +2,7 @@
 
 A modern, desktop application for browsing, importing, and launching interactive computer tutorials. Built with React, TypeScript, and Tailwind CSS following Apple + Microsoft Fluent design principles.
 
-![Tutorial Launcher](https://img.shields.io/badge/React-18.3-blue) (https://img.shields.io/badge/Electron-27.0-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-4.0-blue) ![Vite](https://img.shields.io/badge/Vite-6.0-purple)
+![Tutorial Launcher](https://img.shields.io/badge/React-18.3-blue) ![Electron](https://img.shields.io/badge/Electron-27.0-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-4.0-blue) ![Vite](https://img.shields.io/badge/Vite-6.0-purple)
 
 ---
 
