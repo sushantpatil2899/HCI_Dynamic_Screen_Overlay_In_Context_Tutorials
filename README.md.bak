@@ -380,6 +380,16 @@ This project is open source and available for educational purposes.
 
 ---
 
+## 📞 Support
+
+For setup help, see:
+- **QUICK_START.md** - Fast setup commands
+- **SETUP_GUIDE.md** - Detailed instructions
+- **FILE_STRUCTURE.md** - File organization
+- **STORAGE_README.md** - Persistence system
+
+---
+
 ## 🎉 Acknowledgments
 
 - **shadcn/ui** - Beautiful UI components
@@ -397,9 +407,22 @@ This project is open source and available for educational purposes.
 - **TypeScript:** Fully typed
 - **Responsive:** Desktop-focused design
 - **Persistence:** Full localStorage implementation
+- **Documentation:** 6 comprehensive guides
 
 ---
 
-**Built with ❤️ using Electron, React, TypeScript, and Tailwind CSS**
+## 🔗 Quick Links
+
+| Link | Description |
+|------|-------------|
+| [Quick Start](QUICK_START.md) | Get running in 10 minutes |
+| [Setup Guide](SETUP_GUIDE.md) | Complete installation |
+| [File Structure](FILE_STRUCTURE.md) | File organization |
+| [Storage Docs](STORAGE_README.md) | Persistence system |
+| [Implementation](IMPLEMENTATION_SUMMARY.md) | Technical details |
+
+---
+
+**Built with ❤️ using React, TypeScript, and Tailwind CSS**
 
 *Last Updated: December 1, 2025*
